@@ -1,7 +1,7 @@
 TARGET = main
 
 # Define the linker script location and chip architecture.
-LD_SCRIPT = STM32L432KC.ld
+LD_SCRIPT = STM32L412KB.ld
 MCU_SPEC  = cortex-m4
 
 # Toolchain definitions (ARM bare metal defaults)

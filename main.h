@@ -2,7 +2,7 @@
 #define _MAIN_H_
 
 #include <stdint.h>
-#include "stm32l432.h"
+#include "stm32l412.h"
 
 typedef int bool;
 #define TRUE  1
